@@ -1,5 +1,5 @@
 ---
-name: Call History Analyst
+name: call-history-analyst
 description: Analyze pasted or uploaded call history and summarize patterns, missed calls, peak times, spam likelihood, and contact frequency.
 ---
 
